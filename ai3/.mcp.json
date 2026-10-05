@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ai3": {
+      "type": "http",
+      "url": "https://ai3.co/mcp/owner"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ai3",
+  "owner": { "name": "AI3, Inc.", "url": "https://ai3.co" },
+  "metadata": { "description": "AI3 for Claude Code: run your organisations, approve what's waiting, and talk to your CEO and workers." },
+  "plugins": [
+    {
+      "name": "ai3",
+      "source": "./ai3",
+      "description": "Run your AI3 organisations from Claude: see what's waiting for you, approve or reject it, and talk to your CEO and workers.",
+      "homepage": "https://ai3.co/docs/connect"
+    }
+  ]
+}
