@@ -3,8 +3,19 @@
   "displayName": "AI3",
   "version": "0.1.0",
   "description": "Run your AI3 organisations from Claude: see what's waiting for you, approve or reject it, and talk to your CEO and workers.",
-  "author": { "name": "AI3, Inc.", "url": "https://ai3.co" },
+  "author": {
+    "name": "AI3, Inc.",
+    "url": "https://ai3.co"
+  },
   "homepage": "https://ai3.co/docs/connect",
   "license": "MIT",
-  "keywords": ["business", "agents", "operations", "small business", "ai3"]
+  "keywords": [
+    "business",
+    "agents",
+    "operations",
+    "small business",
+    "ai3"
+  ],
+  "privacyPolicyUrl": "https://ai3.co/privacy",
+  "icon": ".claude-plugin/icon.png"
 }
